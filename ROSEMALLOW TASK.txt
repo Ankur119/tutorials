@@ -1,0 +1,13 @@
+MODEL
+
+STUDENT ID
+
+NAME
+CLASS 
+SECTION
+TERM 1
+TERM 2
+TERM 3
+
+
+https://github.com/Ankur119/tutorials/tree/master/spring-boot-modules/spring-boot-crud
